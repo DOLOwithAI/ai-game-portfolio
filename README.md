@@ -4,6 +4,7 @@
 > 策划 / 程序 / 美术 / 上架，由一个人 + 一套 AI 自动化工作流独立完成
 
 [![PDF](https://img.shields.io/badge/项目作品集-PDF%20(6页)-c8102e)](./逆袭人生-项目作品集.pdf)
+[![TapTap](https://img.shields.io/badge/TapTap-开放试玩%20·%20已上线-00c8c8?logo=taptap&logoColor=white)](https://www.taptap.cn/app/963531)
 [![平台](https://img.shields.io/badge/平台-PC%20网页版%20%2B%20Android-3ddc84)]()
 [![形态](https://img.shields.io/badge/单文件-HTML5%203.24MB-2496ed)]()
 
@@ -143,6 +144,9 @@ PC 网页端采用响应式三栏布局（≥1000px 自动展开，手机端自�
 
 **● 已上线 · TapTap 开放试玩**
 
+🔗 **游戏主页**：https://www.taptap.cn/app/963531
+📅 **上线日期**：2026-10-07 · 官方入驻 · 创意工坊
+
 不联网 + 无内购的合规上架形态，H5 包体点开即玩，安卓包同步提供下载。上架素材（图标 / 封面 / 截图 / 文案 / 隐私政策）全部自主设计与生产。
 
 | 交付物 | 规格 |
@@ -176,10 +180,17 @@ PC 网页端采用响应式三栏布局（≥1000px 自动展开，手机端自�
 |---|---|---|
 | ![技术](./previews/04-技术实现.jpg) | ![AI](./previews/05-AI协作工作流.jpg) | ![成果](./previews/06-成果与交付.jpg) |
 
+**TapTap 上线实况**
+
+| 详情页 | 实机画面 |
+|---|---|
+| ![TapTap详情](./previews/taptap-01-详情页.jpg) | ![实机画面](./previews/taptap-02-实机截图.jpg) |
+
 ---
 
 ## 链接
 
+- 🎮 **TapTap 游戏主页**（开放试玩）：https://www.taptap.cn/app/963531
 - 👤 **GitHub 主页**：https://github.com/DOLOwithAI
 - 🤖 **AI 网申管家**（开源项目）：https://github.com/DOLOwithAI/ai-apply-manager
 - 🎨 **AI 设计作品集**：https://github.com/DOLOwithAI/ai-design-portfolio
